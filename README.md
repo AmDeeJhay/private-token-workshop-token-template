@@ -105,6 +105,7 @@ By completing the **ALEO Token** project, workshop participants learned to:
 * **Platform:** Aleo Testnet
 * **Tools:** Aleo CLI
 * **Deployment id** `at1pv3nwcuycmn2r7vuskmnjr74nt5gnxaemr6pmgtkn5xtm0f68g9qlharwg`
+* **Execution id** `at1pzxaq4utky5svqxgdxfenkp3qp8j0d8u3s6dvyr3dp97epsdc5rqzgjut8`
 
 **Build and Deploy Commands:**
 
